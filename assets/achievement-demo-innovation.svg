@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Innovation competition demo artwork</title>
+  <desc id="description">Abstract project showcase with a warm orange frame, clearly marked as demo artwork to be replaced.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#10191a"/>
+      <stop offset=".58" stop-color="#151014"/>
+      <stop offset="1" stop-color="#08080b"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f15a24" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#bb3b2c" stop-opacity=".36"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#background)"/>
+  <circle cx="940" cy="120" r="250" fill="#f15a24" opacity=".08"/>
+  <rect x="665" y="123" width="390" height="376" rx="26" fill="url(#panel)" opacity=".72"/>
+  <rect x="700" y="158" width="320" height="306" rx="18" fill="#111014" stroke="#f4f0eb" stroke-opacity=".25" stroke-width="2"/>
+  <path d="M760 365 830 285l55 52 58-78" fill="none" stroke="#f15a24" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/>
+  <circle cx="760" cy="365" r="12" fill="#f4f0eb"/>
+  <circle cx="830" cy="285" r="12" fill="#f4f0eb"/>
+  <circle cx="885" cy="337" r="12" fill="#f4f0eb"/>
+  <circle cx="943" cy="259" r="12" fill="#f4f0eb"/>
+  <rect x="64" y="64" width="1072" height="547" rx="24" fill="none" stroke="#f4f0eb" stroke-opacity=".16" stroke-width="2"/>
+  <text x="100" y="151" fill="#f15a24" font-family="Arial, sans-serif" font-size="22" letter-spacing="6">INNOVATION &amp; PROJECTS</text>
+  <text x="100" y="300" fill="#f4f0eb" font-family="Arial, sans-serif" font-size="62" font-weight="700">Your project photo</text>
+  <text x="103" y="352" fill="#b9b0aa" font-family="Arial, sans-serif" font-size="27">Replace this demo artwork with your competition image.</text>
+  <rect x="100" y="418" width="180" height="52" rx="26" fill="#f15a24"/>
+  <text x="190" y="452" fill="#171313" font-family="Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">DEMO IMAGE</text>
+</svg>
